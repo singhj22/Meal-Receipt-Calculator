@@ -55,14 +55,7 @@ public class Meal_Reciept_Calculator
 		System.out.println("Tax                         $"+ Math.round(tax*100)*0.01);
 		System.out.println("Tip                         $"+ Math.round(tip_total*100)*0.01);
 		System.out.println("Total Bill                  $"+ Math.round(total*100)*0.01);
-		
-		
-		
-		
-		
-		
-		
-
+	
 	}
 
 }
